@@ -1,7 +1,7 @@
 # Number Converter from integers (or strings containing integers) to words.
 # Range - 0 <= num < 1 000 000 000 000
 
-#Created by Bamgbola Samuel Aduragbemi - samuelbamgbola@gmail.com
+# Created by Bamgbola Samuel Aduragbemi - samuelbamgbola@gmail.com
 
 def unit(num):
     """Returns the equivalent of inputted parameter in words from 1 to 9."""
